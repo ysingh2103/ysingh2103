@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python & Swift**
 
-- 📫 How to reach me **yuvis2103@gmail.com**
+- 📫 How to reach me **yuvisingh2103@gmail.com**
 
 - ⚡ Fun fact **Coffee, Headphones and MacBook >>>>**
 
