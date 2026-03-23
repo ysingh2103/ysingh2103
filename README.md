@@ -1,4 +1,3 @@
-<img src="https://github.com/neoighodaro/neoighodaro/raw/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <div align="center">
 
