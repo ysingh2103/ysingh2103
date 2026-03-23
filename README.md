@@ -5,10 +5,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yuvraj%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=IT%20Network%20Support%20%7C%20Aspiring%20Cloud%20%26%20AI%20Engineer&descColor=a78bfa&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- Social Badges -->
-<a href="mailto:yuvisingh2103@gmail.com">
+<a href="mailto:ys.gill21@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-yuvisingh2103-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/yuvrajsingh">
+<a href="https://linkedin.com/in/y-singh-gill">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/ysingh2103">
