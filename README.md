@@ -23,7 +23,7 @@ name: Yuvraj Singh
 location: Toronto, Ontario 🇨🇦
 education: Advanced Diploma — Computer Programming Analysis @ Seneca Polytechnic
 current_roles:
-  - IT Network Support Specialist @ IIMSWISS Corp
+  - Technical Support Specialist @ IIMSWISS Corp
 
 what_i_do:
   - Technical support across Windows & Linux for 350+ users at 15+ client orgs
